@@ -1,3 +1,3 @@
 # Hangman_game
 
-I Created A Hangman Game using Python and Libraries such as pygames , time etc . The Game Will Automatically Choose Random Word From The Internet using API and Will Give Hint To the Player About The Word , The Player Have To Guess The word , and He will Have 6 Chances , If Player failed To guess The word The Game Will Be Over for Him.
+I developed a Hangman game using Python and libraries like Pygame and Time. The game randomly selects a word from the internet using an API and provides a hint to the player. The player must guess the word within six attempts. If they fail to do so, the game ends.
