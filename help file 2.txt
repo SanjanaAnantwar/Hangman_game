@@ -1,0 +1,56 @@
+Project Title: Hangman Game
+
+Description: Steps to set up and run the Hangman game project.  
+
+Objective: Explain the software setup and execution process.  
+
+Prerequisites: Python 3.x, Visual Studio Code, Pygame Library.  
+
+------------------------------------------------------------------------
+
+Installation Steps:  
+
+Step 1: Download and install VS Code from [here](https://code.visualstudio.com/download).  
+
+Step 2: Download and install Python 3.x from [here](https://www.python.org/downloads/).  
+
+Step 3: Set up Python in VS Code and ensure it is properly configured.  
+
+Step 4: Open the terminal in VS Code and install required libraries using:  
+
+pip install pygame requests
+ 
+
+Step 5: Ensure all required assets (sound files, images, and scripts) are in the same project folder.  
+
+Step 6: Run the Hangman Game script in VS Code by opening the terminal and typing:  
+
+python HangManGame.py
+
+
+--------------------------------------------------------------------------------
+
+Steps to Install Required Libraries in Python 
+
+Before running the project, install the necessary libraries using:  
+
+pip install pygame requests
+
+
+--------------------------------------------------------------------------------
+
+Algorithms Used:
+- Word selection mechanism  
+- User input handling and validation  
+- Hangman drawing logic  
+
+Game Features:
+- Custom word list with hints 
+- Visual Hangman drawing updates  
+
+---------------------------------------------------------------------------------
+
+Contributors & References  
+
+1) **Python Documentation:** [Python Docs](https://www.python.org/doc/)  
+2) **VS Code Documentation:** [VS Code Docs](https://code.visualstudio.com/docs)  
